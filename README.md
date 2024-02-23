@@ -28,11 +28,15 @@ Welcome to the Music Library documentation! This front-end application (SPA) is 
 
 To get started with Music Library, follow these simple steps:
 
+
+
 1. **Clone the Repository**: Clone the Music Library repository to your local machine.
    ```sh
    git clone https://github.com/your-username/music-library.git
-   
-
+2. **Install the dependencies**: If missing you should install the package.json dependencies by     typing the following in the terminal:
+   ```sh
+      npm install npm
+   ```
 ![GitHub repo size](https://img.shields.io/github/repo-size/BoyanAleksandrov/music-library-documentation)
 
 
