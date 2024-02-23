@@ -37,6 +37,12 @@ To get started with Music Library, follow these simple steps:
    ```sh
       npm install npm
    ```
+3. **Start the app**: To start the application you simply need to open the terminal and type       the following:
+   ```sh
+   npm start
+   ```
+   The server should start on **http://localhost:3000/** if the port isn't already in use!
+   
 ![GitHub repo size](https://img.shields.io/github/repo-size/BoyanAleksandrov/music-library-documentation)
 
 
